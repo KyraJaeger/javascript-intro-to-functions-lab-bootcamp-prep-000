@@ -1,1 +1,2 @@
-shout
+function shout(string) {
+}
